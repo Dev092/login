@@ -1,0 +1,4 @@
+com\dev\login\repository\UserInterface.class
+com\dev\login\controller\UserController.class
+com\dev\login\module\User.class
+com\dev\login\LoginManagementApplication.class
